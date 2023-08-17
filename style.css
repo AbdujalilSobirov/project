@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.button1{
+  background-color:#F72D57;
+  color:#fff ;
+  width: 140px;
+  height: 46px;
+  flex-shrink: 0;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+a{
+  text-decoration: none;
+}
+.sarlavha{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+.span1{
+  color: #F72D57;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.matn1{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  width: 517px;
+}
+.imgfood{
+  width: 567px;
+  height: 527px;
+}
+.sarlavha2{
+  color: '#3F3F3F';
+  font-size: 48;
+  font-family: 'Poppins';
+  font-weight: '600'
+}
+.span2{
+  color: #F72D57;
+  font-size: 48;
+  font-family: 'Poppins';
+  font-weight: '600';
+}
+.text{
+  text-align: center;
+}
+.button2{
+  width: 300px;
+  height: 86px;
+  border-radius: 5px;
+  background: #F72D57;
+}
+.span3{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.per{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.di{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal; 
+}
+.money{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.add{
+  color: #fff;
+  background-color:
+  #F72D57; width: 140px;
+  height: 34px;
+}
+.span4{
+  color: #F72D57;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.button3{
+  background-color: #fff;
+}
+.big_burger{
+  width: 615px;
+  height: 534px;
+}
+#redd{
+  background: url(<path-to-image>), #F72D57 -273.333px -94.427px / 190.476% 137.195% no-repeat;
+}
+.whitee{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.matn2{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.sarlavha4{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.delivery{
+  color: #F72D57;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.matn3{
+  width: 582px;
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.button5{
+  width: 140px;
+  height: 46px;
+  background-color:  #F72D57;
+  border-radius: 5px;
+}
+.work{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.when{
+  color: #F72D57;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.with{
+  color: #3F3F3F;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.btn1{
+  color: #FFF;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.btn2{
+  width: 140px;
+  height: 46px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #F72D57;
+}
+.footerr{
+  width: 1440px;
+  height: 300px;
+  flex-shrink: 0;
+  background: #F72D57;
+}
+.all{
+  color: #FFF;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
