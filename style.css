@@ -209,7 +209,7 @@ a{
   background: #F72D57;
 }
 .footerr{
-  width: 1440px;
+  width: 100%;
   height: 300px;
   flex-shrink: 0;
   background: #F72D57;
